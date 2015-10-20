@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordForge.CSharp.Plugins", "WordForge.CSharp.Plugins.csproj", "{F1631B5B-235D-1DF9-82ED-CB899E2BA31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordForge.CSharp", "WordForge.CSharp.csproj", "{28CA4034-2DC5-69BC-4FDF-0234B97379D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1631B5B-235D-1DF9-82ED-CB899E2BA31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1631B5B-235D-1DF9-82ED-CB899E2BA31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1631B5B-235D-1DF9-82ED-CB899E2BA31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1631B5B-235D-1DF9-82ED-CB899E2BA31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CA4034-2DC5-69BC-4FDF-0234B97379D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CA4034-2DC5-69BC-4FDF-0234B97379D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CA4034-2DC5-69BC-4FDF-0234B97379D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CA4034-2DC5-69BC-4FDF-0234B97379D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
